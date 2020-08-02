@@ -6,6 +6,7 @@ inspired by [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colo
 
 #### Install
 ```plug "zkmrgirish/kakoune-plain" theme```
+
 or move colors/kakoune-plain.kak to $XDG_CONFIG_HOME/kak/colors
 
 
