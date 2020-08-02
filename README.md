@@ -12,3 +12,6 @@ or move colors/kakoune-plain.kak to $XDG_CONFIG_HOME/kak/colors
 
 #### Apply colorscheme
 ```colorscheme kakoune-plain```
+
+##### credit:
+https://github.com/caksoylar/kakoune-mysticaltutor
